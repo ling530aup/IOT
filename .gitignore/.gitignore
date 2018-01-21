@@ -1,0 +1,8 @@
+test-output/
+.settings/
+ivylib/
+bin/
+report/
+hs*err*.log
+javaw*.log
+ivy/
